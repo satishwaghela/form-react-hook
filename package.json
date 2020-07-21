@@ -1,10 +1,10 @@
 {
-  "name": "react-hook-use-form",
+  "name": "form-react-hook",
   "version": "1.0.0",
   "description": "Reusable form module using react hooks",
   "author": "satishwaghela",
   "license": "MIT",
-  "repository": "satishwaghela/react-hook-use-form",
+  "repository": "satishwaghela/form-react-hook",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

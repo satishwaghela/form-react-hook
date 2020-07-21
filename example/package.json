@@ -1,5 +1,5 @@
 {
-  "name": "react-hook-use-form-example",
+  "name": "form-react-hook-example",
   "homepage": ".",
   "version": "0.0.0",
   "private": true,
@@ -16,7 +16,7 @@
     "lodash": "^4.17.19",
     "react": "link:../node_modules/react",
     "react-dom": "link:../node_modules/react-dom",
-    "react-hook-use-form": "link:..",
+    "form-react-hook": "link:..",
     "react-scripts": "link:../node_modules/react-scripts"
   },
   "devDependencies": {
