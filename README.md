@@ -8,7 +8,10 @@
 
 ```bash
 npm install --save form-react-hook
+yarn add form-react-hook
 ```
+
+Example & Demo: https://codesandbox.io/s/sweet-tesla-h6u0v
 
 ## License
 
