@@ -1,6 +1,6 @@
 {
   "name": "form-react-hook",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Reusable form module using react hooks",
   "author": "satishwaghela",
   "license": "MIT",
@@ -11,6 +11,17 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "react",
+    "react-hook",
+    "form-react-hook",
+    "react-hook-form",
+    "simple-react-hook-form",
+    "form-rendering-using-json",
+    "object-level-validation",
+    "array-level-validation",
+    "performant-rendering"
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
